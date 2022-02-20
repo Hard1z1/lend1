@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+body {
+    background: #A8A8A8;
+    max-width: 2000px;
+    max-height: 950px;
+}
+
+.leftmn {
+    background: #101727;
+    width: 265px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.werside {
+    position: absolute;
+    width: 203px;
+    height: 54px;
+    left: 31px;
+    top: 211px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+.ulc {
+    position: absolute;
+    width: 203px;
+    height: 54px;
+    left: 31px;
+    top: 253px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 41px;
+    text-align: center;
+    color: #7D8AFF;
+}
+
+.home {
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    left: 25px;
+    top: 392px;
+    background: #1A253D;
+    border-radius: 15px;
+}
+
+.home1 {
+    position: absolute;
+    width: 154px;
+    height: 20px;
+    margin: 10px 30px 14px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pismo {
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    left: 25px;
+    top: 461px;
+    background: #1A253D;
+    border-radius: 15px;
+}
+
+.pismo1 {
+    position: absolute;
+    width: 154px;
+    height: 20px;
+    margin: 10px 30px 14px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.kabinet {
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    left: 25px;
+    top: 530px;
+    background: #1A253D;
+    border-radius: 15px;
+}
+
+.kabinet1 {
+    position: absolute;
+    width: 154px;
+    height: 20px;
+    margin: 10px 30px 14px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.setting {
+    position: absolute;
+    width: 214px;
+    height: 44px;
+    left: 25px;
+    top: 599px;
+    background: #1A253D;
+    border-radius: 15px;
+}
+
+.setting1 {
+    position: absolute;
+    width: 154px;
+    height: 20px;
+    margin: 10px 30px 14px 30px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.schi {
+    position: absolute;
+    width: 474px;
+    height: 42px;
+    left: 40%;
+    top: 83px;
+    background: #000000;
+    border-radius: 15px;
+}
+
+.schi1 {
+    position: absolute;
+    width: 484px;
+    height: 50px;
+    margin: 5px 5px 13px 5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.tochki {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    right: 0px;
+    top: 16px;
+    background: #1A253D;
+    border-radius: 15px;
+}
+
+.tochki1 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    margin: 8px 6px 7px 159px;
+}
+
+.beta {
+    position: absolute;
+    width: 202px;
+    height: 23px;
+    right: 0px;
+    top: 96%;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #000000;
+}
